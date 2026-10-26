@@ -42,6 +42,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" title="VS Code" />
 </p>
 
+## 📂  Портфолио (Testing Artefacts)
+
+Здесь собраны мои практические работы, выполненные в ходе обучения.
+
+*   **[Практика работы с Bash и API](https://github.com/Helen1801/Helen1801/blob/main/bash_and_api.md)**
+    *   *Что сделано:* Работа с командной строкой, фильтрация данных, выполнение GET и POST запросов через curl.
 
 ## 📫 Как со мной связаться
 
