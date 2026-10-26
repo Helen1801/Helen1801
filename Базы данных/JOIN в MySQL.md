@@ -4,4 +4,4 @@
 2. Подключиться к базе данных `intern_shop`.
 3. Выполнить последовательно запросы, согласно заданию, и разместить их в таблице.
 
-👉 **[Открыть JOIN в MySQL в Google Таблицах](https://docs.google.com/spreadsheets/d/1j2VXhjUyOg6nNv_EtH2ZDMhhFaqFhEvv4X5H1_VtuTE/edit?usp=sharing)**
+👉 **[Открыть JOIN в MySQL в Google Таблицах](https://docs.google.com/spreadsheets/d/1j2VXhjUyDgGnNv_EtH2ZDMhhFaqFhEvv4X5H1_VtuTE/edit?usp=sharing)**
