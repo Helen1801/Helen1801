@@ -14,4 +14,4 @@
 
 ![Доска Jira 2](https://github.com/Helen1801/Helen1801/raw/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/Jira%202.PNG)
 
-![Доска Jira 3](<img width="2555" height="1296" alt="Jira 3" src="https://github.com/user-attachments/assets/74aa7c21-968d-4d63-a7cb-20edfd2941b6" />)
+![Доска Jira 3](https://github.com/Helen1801/Helen1801/raw/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/Jira%203.PNG)
