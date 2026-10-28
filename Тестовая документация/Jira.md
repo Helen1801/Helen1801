@@ -10,7 +10,7 @@
 
 ## Скриншоты доски:
 
-![Доска Jira 1](<img width="2560" height="1315" alt="Jira" src="https://github.com/user-attachments/assets/7e81d81a-2c01-4528-b8cd-bb6bb8a7ca8d" />)
+![Доска Jira 1](https://github.com/Helen1801/Helen1801/raw/main/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F/Jira.PNG)
 
 ![Доска Jira 2](<img width="2548" height="1314" alt="Jira 2" src="https://github.com/user-attachments/assets/c9f46227-b548-4f6f-9e88-317cf8c57f32" />)
 
