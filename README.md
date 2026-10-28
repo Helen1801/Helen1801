@@ -62,7 +62,7 @@
 *   **[Работа с MongoDB](./Базы%20данных/MongoDB.md)**
 
 ### 🌐  3. Тестирование API
-*   **[Работа в Postman](./API-Postman/Postman.md)**
+*   **[Работа в Postman](./API-Posman/Postman.md)**
     *   *Что внутри:* Тестирование SOAP API, скриншоты запросов.
 
 ### 💻  4. Bash и командная строка
